@@ -1,0 +1,6 @@
+S    0 A 0  S-Bahn   0 N S-Bahn
+RB   1 B 0  RB       0 N Regionalbahn
+IC   3 C 0  IC       2   Intercity
+RE   4 D 0  RE       0 N Regionalexpress
+ICE  5 E 0  ICE      2   Intercity-Express
+Bus  0 A 0  Bus      0 N Bus
